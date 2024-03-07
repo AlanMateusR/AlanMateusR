@@ -3,9 +3,9 @@
 <h1 align="center">Olá 👋, sou Alan Mateus</h1>
 <h3 align="center">Analista de Tecnologia da Informação | Programador de automações RPA baseado em Web Scraping | Bacharelado em Gestão de TI</h3>
 
-- 🔭 Atualmente trabalhando em **Configurador automático de pedidos em server cloud**
+- 🔭 Atualmente trabalhando em **Configurador automático de licenças para pedido de venda - Meios de pagamento**
 
-- 🌱 Atualmente aprendendo sobre **Gerenciamento de projetos | Banco de dados | Análise de investimentos | Negócios eletrônicos**
+- 🌱 Atualmente aprendendo sobre **MultiCloud & DevOps | Modelagem de processos | Programação Orientada a Objetos em Java | Modelagem de Processos | Tópicos de Big Data em Python.**
 
 - 💬 Me pergunte sobre **Automações RPA, Python, C++, WEB-Scraping, Análise e desenvolvimento, Meio de pagamento TEF, TI**
 
