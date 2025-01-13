@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1 align="center">Olá 👋, sou Alan Mateus</h1>
-<h3 align="center">Analista de Tecnologia da Informação | Programador de automações RPA baseado em Web Scraping | Bacharelado em Gestão de TI</h3>
+<h3 align="center">Business Monitoring Analyst PL | Command center | MultiCloud | trained in IT management</h3>
 
 - 🔭 Atualmente trabalhando em **Configurador automático de licenças para pedido de venda - Meios de pagamento**
 
